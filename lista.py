@@ -1,0 +1,10 @@
+l = [3,'abacate',9.7,[5,6,3],"Python",(3,'j')]
+print('Lista: ',l)
+print('Posiçao 0: ',l[0])
+print('Posiçao 1: ',l[1])
+print('Posiçao 2: ',l[2])
+print('Posiçao 3: ',l[3])
+print('Posiçao 3 item 1: ',l[3][1])
+print('Posiçao 4: ',l[4])
+print('Posiçao 5: ',l[5])
+print('Posiçao 5 item 1: ',l[5][1])
